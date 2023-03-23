@@ -1,0 +1,4 @@
+[submodule "RetroArch"]
+	path = RetroArch
+	url = https://github.com/libretro/RetroArch.git
+	branch = master
